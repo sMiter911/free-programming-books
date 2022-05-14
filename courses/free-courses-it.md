@@ -5,7 +5,7 @@
 * [Architettura degli Elaboratori](#architettura-degli-elaboratori)
 * [Assembly](#assembly)
 * [C](#c)
-* [C Sharp](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Database](#database)
   * [SQL](#sql)
@@ -62,14 +62,16 @@
 ### C
 
 * [Corso di programmazione in C](https://www.youtube.com/playlist?list=PLO4y9a8lTpK2ugwPRLN_1oOrlzX9Zc9It) - R. Rizzi (Università di Verona)
+* [Corso di programmazione in C (Standard C89/C90)](https://staff.polito.it/claudio.fornaro/CorsoC/) - C. Fornaro (Politecnico di Torino)
+* [Linguaggio C - Corso completo](https://www.youtube.com/playlist?list=PL83Ordjpzm5oUl7tFEjc4iirkPBiv7FxR) - Programmazione Time
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [Programmazione ad oggetti in C#](https://www.youtube.com/watch?v=aSgikNnGEKM&list=PLktbfd3yXeH8yQpHM3O468k8l-aTC6Hl6) - G. Pellegrini Parisi
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [C++ 11](https://www.youtube.com/playlist?list=PL0qAPtx8YtJfZpJD7uFxAXglkiHSEhktG) (F. Camuso)
 * [C++ libreria QT - playlist 1](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdH4GVwL_3QeJjPcz3DHE2t) (F. Camuso)
@@ -123,6 +125,9 @@
 
 ### Java
 
+* [Algoritmi e Strutture Dati Java](http://www.vitoantoniobevilacqua.it/wiki/index.php?title=Pagina_principale#Dispense_di_Algoritmi_e_Strutture_Dati_in_Java) - V. Bevilacqua (Politecnico di Bari)  
+* [Corso di Java Spring Framework](https://www.youtube.com/playlist?list=PLCbSCJEIR6CqgCLyVzqp49xOm8A5YDTKA) - Mauro Cicolella
+* [Design Patterns in Java](https://www.youtube.com/playlist?list=PLCbSCJEIR6Cq-ac90TGvJ8Wo8TtyZ4nhu) (M. Cicolella)
 * [Esercitazioni di Spring Boot](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpGchit9OCI6fX_qVYs78d_) (M. Cicolella)
 * [Java EE](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-erfReHXB9Ush0cREGSmyIe) (S. Zorba)
 * [Programmazione a Oggetti (Java)](https://www.youtube.com/playlist?list=PLUFFnpJdi99kewGZIHpCDgarZER_-J1am) (M. Torchiano)
@@ -130,6 +135,7 @@
 
 ### JavaScript
 
+* [Corso base di Javascript](https://www.youtube.com/playlist?list=PLFLSwyN4GsWmcBvMr5tzsJy9TI8DbfWC5) (S. Tocci)
 * [Corso di JavaScript (base)](https://www.youtube.com/watch?v=JUBhi8O3wn0&list=PLG5caACNVwzpIhlLACNZd6BvABWv_Ti4I) [(Lacerba.io)](https://lacerba.io)
 * [Corso Javascript (ES6)](https://www.youtube.com/watch?v=dDekOIgzxPA&list=PL0qAPtx8YtJceyk5_NpNvLbbkrmfX9kkw) (F. Camuso)
 * [Introduzione a NodeJS](https://www.nodeacademy.it) - Alberto Olla (email address *requested*, not required)
@@ -169,6 +175,7 @@
 
 ### Programmazione
 
+* [Corso di C per sistemi Embedded](https://www.youtube.com/playlist?list=PLFPNVUgYSJN3szCCDYzDoai2ueDxZpCcb) - Davide Ferrero (Deid Lab)
 * [Programmazione](https://www.youtube.com/playlist?list=PLhEwqlL10MqN2eB3b4avX_DU3FK0EOYFa) - G. Filè (Università di Padova)
 * [Programmazione 2 (Java/C++)](http://latemar.science.unitn.it/segue/index.php?&amp;site=2008Programmazione2&amp;section=86&amp;action=site) - M. Ronchetti (Università di Trento)
 * [Tecniche di Programmazione (C/C++)](https://www.youtube.com/playlist?list=PLAQopGWlIcybv3YLRHGS4yZR00X3RvSBm) - L. Iocchi D. Nardi e A. Pretto (Università La Sapienza di Roma)

@@ -1,16 +1,17 @@
 ### Index
 
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Git](#git)
 * [JavaScript](#javascript)
-  * [Angular.js](#angularjs)
   * [NodeJS](#nodejs)
   * [React](#react)
   * [Vue.js](#vuejs)
 * [Python](#python)
 * [Ruby](#Ruby)
+* [TypeScript](#typescript)
+  * [Angular](#angular)
 
 
 ### C
@@ -18,12 +19,12 @@
 * [ภาษา C](http://marcuscode.com/lang/c) - MarcusCode
 
 
-### C-Sharp
+### <a id="csharp"></a>C\#
 
 * [ภาษา C#](http://marcuscode.com/lang/csharp) - MarcusCode
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [ภาษา C++](http://marcuscode.com/lang/cpp) - MarcusCode
 
@@ -40,11 +41,6 @@
 * [จาวาสคริปต์เบื้องต้น](https://phyblas.hinaboshi.com/saraban/javascript) - Phyblas
 * [ภาษา JavaScript](http://marcuscode.com/lang/javascript) - MarcusCode
 * [สอน JavaScript](https://www.youtube.com/playlist?list=PL_xSQKvnccplgKmdtqizMGRh11witheTM) - Zinglecode
-
-
-#### Angular.js
-
-* [มือใหม่หัดใช้ Angular](https://priefydev.wordpress.com/tag/angular/) - Priefy Dev.
 
 
 #### NodeJS
@@ -75,3 +71,13 @@
 ### Ruby
 
 * [สอน Ruby on Rails ตั้งแต่ 0~99](https://www.youtube.com/playlist?list=PLXm-UJjVcJCPxawSeVSYP1bsP_0_iMpQJ) - Geekstart
+
+
+### TypeScript
+
+* [สอน TypeScript Basic to Advance](https://www.youtube.com/playlist?list=PLEE74DyIkwEn4NOiqo43uxvSzyE0eyUQj) - Kong Ruksiam (YouTube)
+
+
+#### Angular
+
+* [มือใหม่หัดใช้ Angular](https://priefydev.wordpress.com/tag/angular/) - Priefy Dev.
